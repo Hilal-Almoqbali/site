@@ -13,7 +13,7 @@
 12. [http://httpstat.us/](http://httpstat.us/)
 13. [https://www.officedaytime.com/simd512e/](https://www.officedaytime.com/simd512e/)
 14. [https://www.realtimerendering.com/portal.html](https://www.realtimerendering.com/portal.html)
-15. [https://www.geometrictools.com/Source/Intersection3D.html](https://www.geometrictools.com/Source/Intersection3D.html)
+15. [https://www.geometrictools.com/Source/Intersection3D.html **](https://www.geometrictools.com/Source/Intersection3D.html)
 16. [https://eater.net/quaternions](https://eater.net/quaternions)
 17. [https://opengameart.org/](https://opengameart.org/)
 18.  [https://github.com/JulianThijssen/GDT](https://github.com/JulianThijssen/GDT)
